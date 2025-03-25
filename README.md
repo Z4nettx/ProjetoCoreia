@@ -1,0 +1,1 @@
+Protótipo básico de uma bandeira da Coreia do Sul feita somente em HTML e CSS
